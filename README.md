@@ -2,7 +2,7 @@
 
 This repository showcases projects I developed during my internship at Ethnotech. The projects apply data analysis and machine learning to practical prediction tasks and present results through interactive applications.
 
-## Projects
+## Projects 
 
 ### Customer Churn Prediction Dashboard
 
