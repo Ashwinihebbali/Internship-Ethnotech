@@ -4,10 +4,6 @@
   for analyzing, visualizing, and predicting customer churn with real-time insights.
 </p>
 
-<p align="center">
-  <span>👨‍💻 Author: Ashwini Vishal</span>
-</p>
-
 ---
 
 ## 🚀 Overview
